@@ -5,9 +5,6 @@ __version__.py
 .vscode
 *.log
 *.pyc
-*.sublime-project
-*.sublime-workspace
-*.swp
 *~
-local.py
+*local.py
 media
