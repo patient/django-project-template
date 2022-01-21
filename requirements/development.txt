@@ -14,7 +14,7 @@ django==3.2.5
     # via -r base.in
 ipdb==0.13.7
     # via -r development.in
-ipython==7.23.1
+ipython==7.31.1
     # via
     #   -r development.in
     #   ipdb
